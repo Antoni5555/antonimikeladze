@@ -7,7 +7,7 @@
 ## About me
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://tlgg.ru/antonimikeladze)
 [![VK](https://img.shields.io/badge/-VK-0077FF?style=flat&logo=vk&logoColor=white)](https://vk.com/antoni527)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:antonimikeladze@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](antonimikeladze@gmail.com)
 
 
 I'm a backend developer from Russia.
