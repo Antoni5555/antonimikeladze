@@ -21,10 +21,9 @@
 
 ## 👨‍💻 About me
 
-- 🧑‍💻 **Backend developer**
-- 🌍 Based in **Russia**
-- 🌐 Interested in **web development**
-- 🐍 Main language: **Python**
+- 🧑‍💻 Backend developer (Python/Django)
+- 🐍 Python • Django • PostgreSQL
+- 🌐 Web development
 
 ---
 
