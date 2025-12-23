@@ -5,7 +5,7 @@
 </p>
 
 ## About me
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://tlgg.ru/Antoni5555)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://tlgg.ru/antonimikeladze)
 
 I'm a backend developer from Russia.
 
