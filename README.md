@@ -31,7 +31,7 @@
   <summary><h2>📚 My stack</h2></summary>
 
 ### 🧩 Languages
-<img src="https://skillicons.dev/icons?i=py,js, html,css,postgres,sqlite&perline=5" />
+<img src="https://skillicons.dev/icons?i=py,js,html,css,postgres,sqlite&perline=5" />
 
 ### 🛠 Frameworks & Tools
 <img src="https://skillicons.dev/icons?i=django,docker,git,bootstrap&perline=4" />
