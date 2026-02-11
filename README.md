@@ -44,20 +44,14 @@
 ---
 
 <details>
-  <summary><h2>⭐ GitHub stats</h2></summary>
+  <summary>📊 GitHub stats</summary>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antoni5555&theme=dracula&layout=compact&hide_border=true&bg_color=00000000"
-    alt="Top languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antoni5555&theme=dracula&layout=compact&hide_border=true&bg_color=0d1117&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Antoni5555&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000"
-    alt="GitHub stats"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Antoni5555&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&cache_seconds=1800" />
 </p>
 
 </details>
